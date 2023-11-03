@@ -1,0 +1,274 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  font-size: 15px;
+}
+
+.ABOUT {
+  background-color: rgb(245, 241, 235);
+  width: 100%;
+  padding: 10px;
+  padding-right: 60px;
+  font-size: 13px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.menu {
+  margin-left: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  
+}
+
+.menu li {
+  list-style-type: none;
+  padding: 20px;
+  text-align: left;
+}
+
+nav .menu li:hover {
+  color:  rgb(31, 65, 31);
+}
+
+.top {
+  margin-bottom: 60px;
+  margin-left: 90px;
+}
+
+h3 {
+  margin-left: 350px;
+  
+} 
+p {
+  color: #21362c;
+  margin-left: 350px;
+  font-size: 14px;
+}
+
+.produk{
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid black;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.produk:hover {
+  color: white;
+  background-color: rgb(25, 25, 25)
+}
+
+
+.left-image{ 
+  display: block;
+  margin-left: 90px;
+  float: left; 
+  margin-right: 20px;
+}
+
+.biru {
+  margin-left: 20px;
+  margin-bottom: 300px;
+}
+
+.garnier {
+  display: block;
+  margin-left: 90px;
+  float: left; 
+  margin-right: 20px;
+}
+
+.kuning {
+  margin-left: 5px;
+  margin-bottom: 300px;
+}
+
+.gambar {
+  display: block;
+  margin-left: 90px;
+  float: left; 
+  margin-right: 20px;
+}
+
+.pink {
+  margin-left: 20px;
+  margin-bottom: 300px;
+  margin-top: 100px;
+}
+
+.water{
+  display: block;
+  margin-left: 10px;
+  float: left; 
+  margin-right: 20px;
+}
+
+.oren {
+  margin-left: 20px;
+  margin-bottom: 300px;
+}
+
+.oil {
+  display: block;
+  margin-left: 50px;
+  float: left; 
+  margin-right: 20px;
+}
+
+.emas {
+  margin-left: 20px;
+  margin-bottom: 300px;
+}
+
+.gambar-container img {
+    display: block; 
+    margin-left: 300px;
+}
+
+.rata {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center; 
+  display: inline-block;
+  margin-left: 500px;
+  
+}
+
+.tulisan {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center; 
+  display: inline-block;
+}
+
+.custom-hr {
+  margin-left: 260px; 
+  margin-right: 400px;
+  width: 59%;
+  border: 2px solid #223a2c;
+}
+
+.tengah {
+  margin-left: 440px;
+}
+
+.kanan {
+  color: #1a5734;
+  font-size: 12px;
+  text-align: right;
+  margin-right: 300px;
+}
+
+.i-text {
+  float: right;
+  margin-right: 300px;
+}
+
+.zoom {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.eco {
+  color: #1a5734;
+  font-size: 12px;
+  text-align: right;
+}
+.je {
+  margin-top: 15%;
+  margin-left: 200px;
+  padding-top: 200px;
+}
+
+.red {
+  color: #1a5734;
+  font-size: 12px;
+  text-align: left;
+}
+
+.jo {
+  text-align: right;
+  margin-right: 300px;
+} 
+
+.jjj {
+  margin-left: 200px;
+}
+
+.di {
+  color: #1a5734;
+  font-size: 12px;
+  text-align: left;
+}
+
+.jodi {
+  text-align: right;
+  margin-right: 300px;
+}
+
+.ba {
+  color: #1a5734;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+footer {
+  background-color: rgba(239, 240, 232, 0.916);
+}
+
+.lima {
+  width: 100%;
+  border: 2px solid #223a2c;
+}
+
+.minus {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 50px;
+}
+
+.plus {
+  padding: 7px;
+  padding-right: 400px;
+}
+
+.lokasi {
+  align-items: center;
+  text-align: center;
+}
+
+.lokasi1 {
+  align-items: center;
+  text-align: center;
+}
+
+.spaces {
+  padding-left: 200px;
+  margin-right: 20px;
+  text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
